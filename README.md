@@ -23,9 +23,9 @@ Objetivos específicos:
 
 Presupuesto
 Costos de prototipo/producto IoT:
-Desarrollo del primer prototipo IoT: $200.000
-Costo estimado del producto IoT una vez estandarizado: $40.000
-Costo de Instalación del contador Inteligente: $50.000
+Desarrollo del primer prototipo IoT: $1'000.000
+Costo estimado del producto IoT una vez estandarizado: $50.000
+Costo de Instalación del contador Inteligente: $70.000
 Costo estimado de datos 0.256608 gb  
 
 Costo del sistema de consultas y gestión de los Datos:
